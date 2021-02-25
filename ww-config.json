@@ -5,10 +5,17 @@
     },
     "editor": {
         "label": {
-            "en": "My element"
+            "en": "Snipcart cart"
         },
         "menuOptions": {},
         "styleOptions": {},
-        "settingsOptions": {}
+        "settingsOptions": {
+            "apiKey": {
+                "label": {
+                    "en": "Api key"
+                },
+                "type": "Text"
+            }
+        }
     }
 }
